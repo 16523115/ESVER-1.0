@@ -21,6 +21,7 @@ public class JavaApplication7 {
         //dsaf
         //adsfuih
         System.out.println("Woe");
+        System.out.println("gmana kabar nya uyeeee");
     }
     
 }
