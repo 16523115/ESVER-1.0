@@ -22,6 +22,7 @@ public class JavaApplication7 {
         //adsfuih
         System.out.println("Woe");
         System.out.println("gmana kabar nya uyeeee");
+        //edit
     }
     
 }
